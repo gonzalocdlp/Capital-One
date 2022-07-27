@@ -1,8 +1,6 @@
 # MLH Localhost <> Capital One
+AI bot using Twitter API. Uses Flask and Python![ai bot with Twitter API](https://user-images.githubusercontent.com/87113091/181373266-acfa4e7d-bf64-4708-967e-810f1cfb4332.gif)
 
-This project contains the starter code for Basic Training: Bot Camp!
-
-Your Project
 ------------
 Click `Show` above and it will launch the app in a new browser tab. It starts by running the `main.py` program.
 
